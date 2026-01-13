@@ -4,14 +4,14 @@
 
 
 
-## Project Overview
+# Project Overview
 
 The Online Quiz Management System is a web-based application developed using Java, JSP, Servlets, and MySQL.
 It provides an automated platform for conducting quizzes online, making the examination process efficient, accurate, and user-friendly.
 
 The system allows administrators to manage quizzes and questions, while students can register, log in, attempt quizzes, and view results instantly.
 
-## Technologies Used
+# Technologies Used
 
 Java
 

@@ -12,74 +12,73 @@ It allows access to two types of users, with the following functions:
 - Student -> Log In, Take Exam, View Results, Log Out.
 
 
-## 2. Tech Stack:
-
-- HTML / CSS / JavaSript / Bootstrap
-
-- Java 11 / Java EE version 8 (Jakarta EE version 8)
-
-- Java JSP
-
-- Java Servlet
-
-- JDBC Driver
-
-- MySQL DB / MySQL Server / MySQL Workbench
-
-- Apache Tomcat Server
-
-- Apache Netbeans IDE
 
 
-## 3. Installing
+## Project Overview
 
-Project Prerequisite: 
-- Apache NetBeans 13.0, 
-- Apache Tomcat Server 10.0, 
-- MySQL Server, 
-- MySQL Workbench (Optional ... I prefer to perform MySql operations at the command line "mysql -u root -p")
-- Be mindful that you will need to add the following libraries to the project:
+The Online Quiz Management System is a web-based application developed using Java, JSP, Servlets, and MySQL.
+It provides an automated platform for conducting quizzes online, making the examination process efficient, accurate, and user-friendly.
 
-(a) mysql-connector-java-8.0.17.jar
+The system allows administrators to manage quizzes and questions, while students can register, log in, attempt quizzes, and view results instantly.
 
-(b) jsp-api.jar
+🛠 Technologies Used
 
-(c) servlet-api.jar
+Java
 
-- How to use:
+JSP & Servlets
 
-1. Clone the repo.
+MySQL
 
-```
-https://github.com/Vaishnavichandane2143/Online-Quiz-System.git
-```
+JDBC
 
-2. Database
+Apache Tomcat Server
 
-- Start MySQL Server
+HTML, CSS, Bootstrap
 
-- Create tables in MySQL (SQL queries are in /web/db.txt)
+# Admin Module
 
-3. IDE:
+Admin login authentication
 
-- Open project in NetBeans
+Create, update, and delete quiz questions
 
-- Start Apache Tomcat Server
+Manage quizzes
 
-- Run the application in the IDE (NetBeans)
+View student results
 
-- On "Evently" landing page:
+# Student Module
 
-        (i) Login as an Admin:
-        
-        Admin username -> admin
-        
-        Admin password -> admin
-        
+Student registration and login
 
-Created by: Engineering.Org.In
+Attempt online quizzes
 
-Last updated: 03/2022
+View quiz scores and results
 
-URL: https://www.udemy.com/course/build-real-world-java-projects-using-spring-jsp-jdbc/
+# Key Features
 
+Secure login system
+
+Online quiz management
+
+Automatic evaluation of quizzes
+
+Instant result generation
+
+User-friendly interface
+
+# How to Run the Project
+
+Install Java JDK
+
+Install Apache NetBeans IDE
+
+Install MySQL Database
+
+Import the project into NetBeans
+
+Configure the MySQL database
+
+Add MySQL JDBC connector
+
+Deploy the project on Apache Tomcat Server
+
+Run the project in a web browser

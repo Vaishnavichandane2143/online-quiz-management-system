@@ -12,7 +12,7 @@ It allows access to two types of users, with the following functions:
 - Student -> Log In, Take Exam, View Results, Log Out.
 
 
- 📝 Online Quiz Management System
+ 📝 ##**Online Quiz Management System**
  
 👩‍🎓 Student Name
 

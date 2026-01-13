@@ -1,4 +1,4 @@
-# Examily: An Online Quiz System 
+# Title: Online Quize Management System
 
 
 ## **1. Project Description:**

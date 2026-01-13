@@ -1,7 +1,7 @@
 # Examily: An Online Quiz System 
 
 
-## 1. Project Description:
+## **1. Project Description:**
 
 Examily is a quiz-based examination platform for University level courses.
 

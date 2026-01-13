@@ -17,9 +17,4 @@ It allows access to two types of users, with the following functions:
 
 
 
-Created by: Engineering.Org.In
-
-Last updated: 03/2022
-
-URL: https://www.udemy.com/course/build-real-world-java-projects-using-spring-jsp-jdbc/
 

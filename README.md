@@ -51,7 +51,7 @@ Project Prerequisite:
 1. Clone the repo.
 
 ```
-https://github.com/AAdewunmi/Online-Quiz-System.git
+https://github.com/Vaishnavichandane2143/Online-Quiz-System.git
 ```
 
 2. Database

@@ -12,14 +12,14 @@ It allows access to two types of users, with the following functions:
 - Student -> Log In, Take Exam, View Results, Log Out.
   
 
-# Project Overview
+## Project Overview
 
 The Online Quiz Management System is a web-based application developed using Java, JSP, Servlets, and MySQL.
 It provides an automated platform for conducting quizzes online, making the examination process efficient, accurate, and user-friendly.
 
 The system allows administrators to manage quizzes and questions, while students can register, log in, attempt quizzes, and view results instantly.
 
-# Technologies Used
+## Technologies Used
 
 Java
 
@@ -33,8 +33,8 @@ Apache Tomcat Server
 
 HTML, CSS, Bootstrap
 
-# System Modules
-# Admin Module
+## System Modules
+## Admin Module
 
 Admin login authentication
 
@@ -44,7 +44,7 @@ Manage quizzes
 
 View student results
 
-🔹 Student Module
+## Student Module
 
 Student registration and login
 
@@ -52,7 +52,7 @@ Attempt online quizzes
 
 View quiz scores and results
 
-# Key Features
+## Key Features
 
 Secure login system
 
@@ -64,7 +64,7 @@ Instant result generation
 
 User-friendly interface
 
-# How to Run the Project
+## How to Run the Project
 
 Install Java JDK
 

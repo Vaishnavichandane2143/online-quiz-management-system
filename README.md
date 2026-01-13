@@ -96,28 +96,7 @@ Future plans:
 - Implement Log In With Google Button functionality
 
 
-## 5. Screenshots
 
-- Examily landing page:
-
-![Image description](web/landing3.png)
-
-- Examily examiner landing page:
-
-![Image description](web/admin.png)
-
-- Examily stduent landing page:
-
-![Image description](web/student.png)
-
-
-## Adapted from:
-
-UDEMY: Java Development Mega Course: Build Projects Practically
-
-(Java Programming Course: Learn Development of JAVA Projects Using JSP, JDBC, Servlets, Swing, Spring Boot, Maven, Hibernate)
-
-Project Name: Project 36: Online Quiz Sysem
 
 Created by: Engineering.Org.In
 
